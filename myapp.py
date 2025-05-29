@@ -41,4 +41,5 @@ def update_graph(selected_country):
 
 # Run the app locally
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
+

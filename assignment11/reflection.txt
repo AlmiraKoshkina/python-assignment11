@@ -1,0 +1,17 @@
+During this assignment, I worked with both Dash and Streamlit. They both help create interactive dashboards, but in different ways. 
+Streamlit is easier to start with — you write a line and see the result right away. 
+Dash takes more setup but gives you more control, especially for layout and callbacks.
+
+Dashboards are a great way to show data so non-technical users can explore it. 
+I made a chart for different countries and saw how quickly you can switch and compare GDP. 
+That’s really helpful when working with changing data.
+
+The difference between static and interactive charts became clear: 
+a static chart shows only one view, while an interactive one lets users explore the data themselves. 
+That’s important when you’re building a tool, not just a report.
+
+Dash and Plotly make the data feel alive — you can filter, hover, and change options without reloading the page. 
+It’s useful and looks professional when sharing results with clients or a team.
+
+Streamlit feels perfect for quick tests and personal tools. 
+Dash works better for more advanced apps, especially if you want to deploy them online.
